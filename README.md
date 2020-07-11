@@ -1,6 +1,6 @@
 ### Hello 👋
 I am Amulya Boyapati!
-![alt text](http://url/to/https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F60597%2Fdahlia-red-blossom-bloom-60597.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26dpr%3D1%26w%3D500&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fflower%2520wallpaper%2F&tbnid=1lmmYdOmNUaX2M&vet=12ahUKEwj-zaKaw8XqAhV1A7cAHe-ODcwQMygIegUIARDkAQ..i&docid=HOqXEvxEUfInTM&w=500&h=375&q=flower%20images&ved=2ahUKEwj-zaKaw8XqAhV1A7cAHe-ODcwQMygIegUIARDkAQ)
+
 <!--
 **amulya12/amulya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
