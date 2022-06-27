@@ -1,6 +1,8 @@
 ### Hello 👋
 I am Amulya Boyapati!
 
+- 🔭 I’m currently pursuing 
+Master's in Computer Science at Univeristy of Illinois, Chicago
 <!--
 **amulya12/amulya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
