@@ -3,7 +3,7 @@ I am Amulya Boyapati!
 
 - 🔭 I’m currently pursuing Master's in Computer Science at Univeristy of Illinois, Chicago
 - [![Amulya's GitHub stats](https://github-readme-stats.vercel.app/api?username=amulya12)](https://github.com/amulya12/github-readme-stats)
-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=amulya12&repo=github-readme-stats)](https://github.com/amulya12/github-readme-stats)
+- ![Amulya's github stats](https://github-readme-stats.vercel.app/api?username=amulya12)
 <!--
 **amulya12/amulya12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
